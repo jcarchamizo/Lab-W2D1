@@ -43,8 +43,8 @@ h1{
 .cursiv{
     font-family: cursive;
     font-size: 1em;
-    color: #8d6237; /* RGB - 00 00 00 */
-    background-color: #f2dac2;
+    color: #ce7419; /* RGB - 00 00 00 */
+    background-color: #e8d9c9;
 }
 
 .geor{
@@ -139,3 +139,8 @@ h1{
 .textDecorationUnderline{
     text-decoration: underline;
 }
+
+
+
+
+
