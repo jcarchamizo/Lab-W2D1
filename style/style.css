@@ -140,6 +140,69 @@ h1{
     text-decoration: underline;
 }
 
+.indent1{
+    text-indent: 4em;
+}
+
+.textShadow{
+    text-shadow: 5px 5px 3px rgb(68, 59, 59);
+}
+
+.textShadows{
+    text-shadow: 
+        5px 5px 3px rgb(68, 59, 59),
+        10px 10px 3px rgb(243, 95, 95),
+        15px 15px 3px rgb(113, 238, 111)
+    ;
+}
+
+.letterSpacingNormal{
+    letter-spacing: normal;
+}
+
+.letterSpacingPositive{
+    letter-spacing: 5px;
+}
+
+.letterSpacingNegative{
+    letter-spacing: -2px;
+}
+
+.wordSpacingNormal{
+    word-spacing: normal;
+}
+
+.wordSpacingPositive{
+    word-spacing: 5px;
+}
+
+.wordSpacingNegative{
+    word-spacing: -2px;
+}
+
+.textTransformNone{
+    text-transform: none;
+}
+
+.textTransformCapitalize{
+    text-transform: capitalize;
+}
+
+.textTransformUppercase{
+    text-transform: uppercase;
+}
+
+.textTransformLowercase{
+    text-transform: lowercase;
+}
+
+.lineheightNormal{
+    line-height: normal;
+}
+
+.lineheight10{
+    line-height: 30px;
+}
 
 
 
